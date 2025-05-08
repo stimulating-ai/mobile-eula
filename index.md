@@ -1,7 +1,7 @@
-# END USER LICENSE AGREEMENT (EULA)  
+# End User License Agreement (EULA)  
 **Last updated: 5/8/2025**
 
-This End User License Agreement ("EULA" or "Agreement") is a legally binding contract between you ("You" or "User") and Effing Games Inc. ("Developer," "We," "Us," or "Our"), the creator and owner of the accessed mobile application ("App"). By installing, accessing, or using the App, you agree to be bound by the terms and conditions contained in this EULA.  
+This End User License Agreement ("EULA" or "Agreement") is a legally binding contract between you ("You" or "User") and Stimulating AI Inc. ("Developer," "We," "Us," or "Our"), the creator and owner of the accessed mobile application ("App"). By installing, accessing, or using the App, you agree to be bound by the terms and conditions contained in this EULA.  
 **IF YOU DO NOT AGREE TO THE TERMS OF THIS EULA, DO NOT INSTALL, ACCESS, OR USE THE APP.**
 
 ## License Grant  
@@ -53,7 +53,7 @@ You agree to indemnify, defend, and hold harmless the Developer, its affiliates,
 - Your violation of any rights of another party
 
 ## Governing Law and Dispute Resolution  
-This EULA shall be governed by and construed in accordance with the laws of **California**, without regard to its conflict of laws principles.  
+This EULA shall be governed by and construed in accordance with the laws of **Washington** state, without regard to its conflict of laws principles.  
 Any disputes arising out of or in connection with this EULA shall be resolved through good faith negotiations between the parties.  
 If such negotiations fail, either party may seek appropriate legal remedies in the courts of competent jurisdiction in California.
 
