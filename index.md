@@ -1,5 +1,5 @@
 # End User License Agreement (EULA)  
-**Last updated: 5/8/2025**
+**Last updated: 10/6/2025**
 
 This End User License Agreement ("EULA" or "Agreement") is a legally binding contract between you ("You" or "User") and Stimulating AI Inc. ("Developer," "We," "Us," or "Our"), the creator and owner of the accessed mobile application ("App"). By installing, accessing, or using the App, you agree to be bound by the terms and conditions contained in this EULA.  
 **IF YOU DO NOT AGREE TO THE TERMS OF THIS EULA, DO NOT INSTALL, ACCESS, OR USE THE APP.**
@@ -14,15 +14,24 @@ You shall not:
 - Rent, lease, loan, sublicense, distribute, or transfer the App to any third party.  
 - Remove, alter, or obscure any copyright, trademark, or other proprietary notices in the App.  
 - Use the App for any illegal, unauthorized, or inappropriate purposes.  
-- Use the App to infringe upon the rights of others, including but not limited to intellectual property rights, privacy rights, or rights of publicity.
+- Use the App to infringe upon the rights of others, including but not limited to intellectual property rights, privacy rights, or rights of publicity.  
+- Use the App to generate, reproduce, or distribute copyrighted, trademarked, or otherwise protected content unless you have full legal rights to do so. **You acknowledge and agree that you are solely responsible for the content you generate or distribute using the App. The Developer disclaims all liability arising from or related to such content, and you agree to indemnify and hold harmless the Developer from any claims, damages, or expenses resulting from your use of the App or your content.**
 
 ## Intellectual Property Rights  
 The App, including all content, trademarks, logos, and other intellectual property rights contained therein, is the property of the Developer or its licensors, and is protected by applicable intellectual property laws.  
 You acknowledge that your use of the App does not grant you any rights to the intellectual property contained within the App, except for the limited license granted herein.
 
 ## User Content  
-You are solely responsible for any content, including but not limited to text, images, videos, or other materials, that you create, submit, or share through the App ("User Content").  
-By submitting User Content, you represent and warrant that you have all necessary rights to grant the Developer a worldwide, non-exclusive, royalty-free, sublicensable, and transferable license to use, reproduce, distribute, prepare derivative works of, display, and perform the User Content in connection with the App and the Developer's business.
+You retain ownership of all content that you generate through the App ("User Content"), subject to the rights of any third parties. This means you may not claim ownership of, or use, any elements of User Content that incorporate copyrighted, trademarked, or otherwise protected material belonging to others without proper authorization.  
+
+By using the App, you grant the Developer a limited, worldwide, royalty-free license to host, store, and process your User Content solely for the purpose of providing and improving the App.  
+
+**License Rights:**  
+- If you do not have an active subscription that includes commercial rights at the time of creation, your User Content is provided to you under a **non-commercial license** only.  
+- If you maintain an active paid subscription with commercial rights at the time of creation, you are granted a **commercial license** to use that User Content.  
+
+Except for the limited license you grant to the Developer, and subject to applicable third-party rights, **you retain all rights, title, and interest in and to your User Content.**
+
 
 ## Privacy  
 Your privacy is important to Us. Please review our **Privacy Policy**, which is incorporated herein by reference, to understand how We collect, use, and disclose your personal information.
@@ -32,13 +41,18 @@ The Developer reserves the right, at its sole discretion, to update, modify, or 
 We may also update the terms of this EULA from time to time, and your continued use of the App following such updates signifies your acceptance of the revised terms.
 
 ## Termination  
-This EULA is effective until terminated by either party. You may terminate this EULA at any time by uninstalling and ceasing all use of the App.  
-We may terminate this EULA without notice if you fail to comply with any of its terms.  
-Upon termination, all rights granted to you under this EULA will cease, and you must uninstall and cease all use of the App.
+This EULA is effective until terminated by either party. You may terminate this EULA at any time by uninstalling the App, ceasing all use of the App, and permanently deleting all User Content generated through the App. Termination by you requires that you immediately cease distributing, displaying, or otherwise making use of any User Content created under this Agreement.  
+
+We may suspend or terminate your account and access to the App immediately, without refund, if you violate this EULA, including but not limited to breaches of the restrictions on copyright infringement or other intellectual property misuse.  
+
+Upon termination, all rights granted to you under this EULA, including any license to use User Content, will cease. You must uninstall the App and delete all copies of User Content generated under this Agreement.
+
 
 ## Disclaimer of Warranties  
 **THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED**, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.  
-YOUR USE OF THE APP IS AT YOUR SOLE RISK.
+YOUR USE OF THE APP IS AT YOUR SOLE RISK.  
+
+We make no representation or warranty that any content generated by the App will be free of third-party rights or legally compliant for your intended purposes. Even where commercial rights are granted under an active subscription, you are solely responsible for ensuring compliance with all applicable laws, regulations, and third-party rights.
 
 ## Limitation of Liability  
 IN NO EVENT SHALL THE DEVELOPER, ITS AFFILIATES, LICENSORS, OR SUPPLIERS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, EXEMPLARY, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF PROFITS, LOSS OF DATA, OR LOSS OF GOODWILL, ARISING OUT OF OR IN CONNECTION WITH THIS EULA OR YOUR USE OF THE APP,  
