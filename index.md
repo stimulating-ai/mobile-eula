@@ -59,7 +59,10 @@ You acknowledge that your use of the App does not grant you any rights to the in
 ---
 
 ## User Content
-You retain ownership of all content that you generate through the App ("User Content"), subject to the rights of any third parties. This means you may not claim ownership of, or use, any elements of User Content that incorporate copyrighted, trademarked, or otherwise protected material belonging to others without proper authorization.  
+You retain ownership of all content that you generate through the App ("User Content"), subject to the rights of any third parties. This means you may not claim ownership of, or use, any elements of User Content that incorporate copyrighted, trademarked, or otherwise protected material belonging to others without proper authorization.
+
+**Consent Requirement:**  
+You represent and warrant that **you have obtained all necessary rights, permissions, and consents** from any identifiable individual depicted, referenced, or used as the basis for User Content generated through the App. This includes, but is not limited to, consent to create, modify, reproduce, and use their likeness, image, voice, or other personal attributes. You may not use the App to create content of real persons **without their express permission**, or in violation of privacy, publicity, or similar rights.
 
 By using the App, you grant the Developer a limited, worldwide, royalty-free license to host, store, and process your User Content solely for the purpose of providing and improving the App.  
 
