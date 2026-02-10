@@ -1,5 +1,5 @@
 # End User License Agreement (EULA)
-**Last updated: 10/7/2025**
+**Last updated: 2/5/2026**
 
 This End User License Agreement ("EULA" or "Agreement") is a legally binding contract between you ("You" or "User") and Stimulating AI Inc. ("Developer," "We," "Us," or "Our"), the creator and owner of the accessed mobile application ("App"). By installing, accessing, or using the App, you agree to be bound by the terms and conditions contained in this EULA.  
 **IF YOU DO NOT AGREE TO THE TERMS OF THIS EULA, DO NOT INSTALL, ACCESS, OR USE THE APP.**
