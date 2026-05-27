@@ -4,7 +4,7 @@ title: Creator Pro Terms of Service
 app_name: Creator Pro
 app_icon: ./app-icon.png
 favicon: ./favicon.png
-updated: 2/5/2026
+updated: 5/27/2026
 ---
 
 This End User License Agreement ("EULA" or "Agreement") is a legally binding contract between you ("You" or "User") and Stimulating AI Inc. ("Developer," "We," "Us," or "Our"), the creator and owner of Creator Pro ("Creator Pro" or "App"). By installing, accessing, or using Creator Pro, you agree to be bound by the terms and conditions contained in this EULA.  
