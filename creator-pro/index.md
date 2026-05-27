@@ -31,6 +31,7 @@ You shall not:
 - Use Creator Pro for any illegal, unauthorized, or inappropriate purposes.  
 - Use Creator Pro to infringe upon the rights of others, including but not limited to intellectual property rights, privacy rights, or rights of publicity.  
 - Use Creator Pro to generate, reproduce, or distribute copyrighted, trademarked, or otherwise protected content unless you have full legal rights to do so.  
+- Use Creator Pro to create, edit, publish, distribute, or commercially exploit content that depicts, imitates, or suggests the endorsement of any celebrity, public figure, private person, brand, logo, trademark, copyrighted character, or protected work unless you have all required rights, licenses, permissions, and consents.  
 
 **You acknowledge and agree that you are solely responsible for the content you generate or distribute using Creator Pro. The Developer disclaims all liability arising from or related to such content, and you agree to indemnify and hold harmless the Developer from any claims, damages, or expenses resulting from your use of Creator Pro or your content.**
 
